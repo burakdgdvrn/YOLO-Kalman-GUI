@@ -51,6 +51,7 @@ Calibration View: Displays the original vs. undistorted frame.
 Kalman + YOLO: Shows the detection bounding box (Green), raw center (Red dot), and Kalman-smoothed center (Blue dot).
 
 ## 👥 Developers
-Burak Dağdeviren -Çağrı Demir 
+Burak Dağdeviren 
+Çağrı Demir 
 
 Built with Python, OpenCV, and Ultralytics YOLO.
